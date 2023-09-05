@@ -368,7 +368,7 @@ public static void main(String[] args) {
         for(int j=1;j<=19;j++){
             System.out.print(a[i][j]);
         }
-        System.out.println();
+        System.out.println();//jhjhgjh
     }
 }
 }
